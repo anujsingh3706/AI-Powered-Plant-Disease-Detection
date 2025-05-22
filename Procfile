@@ -1,0 +1,1 @@
+web: cd Flask\ Deployed\ App && gunicorn app:app 

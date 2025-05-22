@@ -1,0 +1,80 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+.venv
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Local development
+instance/
+.webassets-cache
+*.db
+
+# Model files and large data
+*.pt
+*.pth
+*.h5
+*.model
+*.bin
+*.pkl
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Uploaded files
+static/uploads/*
+!static/uploads/.gitkeep
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg 
